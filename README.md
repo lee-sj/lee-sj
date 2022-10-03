@@ -1,9 +1,7 @@
 ### Hi there 👋
-
-### 계정에 문제가 있어서 레포백업및 정리와 설정 세팅중.. ㅜㅜ
-
-📫 : [201302386@hufs.ac.kr](mailto:201302386@hufs.ac.kr)
 <!--
+📫 : [201302386@hufs.ac.kr](mailto:201302386@hufs.ac.kr)
+
 **lee-sj/lee-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
